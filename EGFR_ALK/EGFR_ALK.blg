@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: EGFR_ALK.aux
 The style file: unsrt.bst
 Database file #1: EGFR_ALK.bib
-You've used 6 entries,
+You've used 14 entries,
             1791 wiz_defined-function locations,
-            501 strings with 5477 characters,
-and the built_in function-call counts, 1954 in all, are:
-= -- 148
-> -- 149
+            566 strings with 8131 characters,
+and the built_in function-call counts, 4561 in all, are:
+= -- 343
+> -- 352
 < -- 0
-+ -- 52
-- -- 46
-* -- 205
-:= -- 338
-add.period$ -- 18
-call.type$ -- 6
-change.case$ -- 6
++ -- 123
+- -- 109
+* -- 481
+:= -- 785
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 54
-empty$ -- 150
-format.name$ -- 46
-if$ -- 389
+cite$ -- 14
+duplicate$ -- 126
+empty$ -- 351
+format.name$ -- 109
+if$ -- 911
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 6
-newline$ -- 33
-num.names$ -- 6
-pop$ -- 6
+int.to.str$ -- 14
+missing$ -- 14
+newline$ -- 73
+num.names$ -- 14
+pop$ -- 14
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 19
+skip$ -- 42
 stack$ -- 0
-substring$ -- 165
-swap$ -- 6
+substring$ -- 388
+swap$ -- 14
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 18
-width$ -- 7
-write$ -- 68
+while$ -- 41
+width$ -- 16
+write$ -- 156

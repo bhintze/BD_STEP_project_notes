@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Yarden1987}
 Yosef Yarden and Joseph Schlessinger.
@@ -26,11 +26,15 @@ Francine Walker, Laurent Abramowitz, Dalila Benabderrahmane, Xavier Duval,
   immunodeficiency virus.
 \newblock {\em Human Pathology}, 40(11):1517--1527, nov 2009.
 
-\bibitem{Paez2004}
-J.~G. Paez.
-\newblock {EGFR} mutations in lung cancer: Correlation with clinical response
-  to gefitinib therapy.
-\newblock {\em Science}, 304(5676):1497--1500, jun 2004.
+\bibitem{Lynch2004}
+Thomas~J. Lynch, Daphne~W. Bell, Raffaella Sordella, Sarada Gurubhagavatula,
+  Ross~A. Okimoto, Brian~W. Brannigan, Patricia~L. Harris, Sara~M. Haserlat,
+  Jeffrey~G. Supko, Frank~G. Haluska, David~N. Louis, David~C. Christiani, Jeff
+  Settleman, and Daniel~A. Haber.
+\newblock Activating mutations in the epidermal growth factor receptor
+  underlying responsiveness of non{\textendash}small-cell lung cancer to
+  gefitinib.
+\newblock {\em New England Journal of Medicine}, 350(21):2129--2139, may 2004.
 
 \bibitem{Rosell2009}
 Rafael Rosell, Teresa Moran, Cristina Queralt, Rut Porta, Felipe Cardenal,
@@ -43,5 +47,63 @@ Rafael Rosell, Teresa Moran, Cristina Queralt, Rut Porta, Felipe Cardenal,
 \newblock Screening for epidermal growth factor receptor mutations in lung
   cancer.
 \newblock {\em New England Journal of Medicine}, 361(10):958--967, sep 2009.
+
+\bibitem{Kosaka2004}
+T.~Kosaka.
+\newblock Mutations of the epidermal growth factor receptor gene in lung
+  cancer: Biological and clinical implications.
+\newblock {\em Cancer Research}, 64(24):8919--8923, dec 2004.
+
+\bibitem{Kris2003}
+Mark~G. Kris, Ronald~B. Natale, Roy~S. Herbst, Jr~Thomas J.~Lynch, Diane
+  Prager, Chandra~P. Belani, Joan~H. Schiller, Karen Kelly, Harris
+  Spiridonidis, Alan Sandler, Kathy~S. Albain, David Cella, Michael~K. Wolf,
+  Steven~D. Averbuch, Judith~J. Ochs, and Andrea~C. Kay.
+\newblock Efficacy of gefitinib, an inhibitor of the epidermal growth factor
+  receptor tyrosine kinase, in symptomatic patients with non{\textendash}small
+  cell lung cancer.
+\newblock {\em {JAMA}}, 290(16):2149, oct 2003.
+
+\bibitem{Fukuoka2003}
+M.~Fukuoka.
+\newblock Multi-institutional randomized phase {II} trial of gefitinib for
+  previously treated patients with advanced non-small-cell lung cancer.
+\newblock {\em Journal of Clinical Oncology}, 21(12):2237--2246, may 2003.
+
+\bibitem{Zhang2006}
+Xuewu Zhang, Jodi Gureasko, Kui Shen, Philip~A. Cole, and John Kuriyan.
+\newblock An allosteric mechanism for activation of the kinase domain of
+  epidermal growth factor receptor.
+\newblock {\em Cell}, 125(6):1137--1149, jun 2006.
+
+\bibitem{Yun2007}
+Cai-Hong Yun, Titus~J. Boggon, Yiqun Li, Michele~S. Woo, Heidi Greulich,
+  Matthew Meyerson, and Michael~J. Eck.
+\newblock Structures of lung cancer-derived {EGFR} mutants and inhibitor
+  complexes: Mechanism of activation and insights into differential inhibitor
+  sensitivity.
+\newblock {\em Cancer Cell}, 11(3):217--227, mar 2007.
+
+\bibitem{Yun2008}
+C.-H. Yun, K.~E. Mengwasser, A.~V. Toms, M.~S. Woo, H.~Greulich, K.-K. Wong,
+  M.~Meyerson, and M.~J. Eck.
+\newblock The t790m mutation in {EGFR} kinase causes drug resistance by
+  increasing the affinity for {ATP}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  105(6):2070--2075, jan 2008.
+
+\bibitem{Bell2005}
+Daphne~W Bell, Ira Gore, Ross~A Okimoto, Nadia Godin-Heymann, Raffaella
+  Sordella, Roseann Mulloy, Sreenath~V Sharma, Brian~W Brannigan, Gayatry
+  Mohapatra, Jeff Settleman, and Daniel~A Haber.
+\newblock Inherited susceptibility to lung cancer may be associated with the
+  t790m drug resistance mutation in {EGFR}.
+\newblock {\em Nature Genetics}, 37(12):1315--1316, oct 2005.
+
+\bibitem{Paez2004}
+J.~G. Paez.
+\newblock {EGFR} mutations in lung cancer: Correlation with clinical response
+  to gefitinib therapy.
+\newblock {\em Science}, 304(5676):1497--1500, jun 2004.
 
 \end{thebibliography}

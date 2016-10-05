@@ -1,7 +1,5 @@
 \documentclass[12pt]{article}
 
-\bibliographystyle{unsrt}
-
 \title{Notes on EGFR and ALK}
 \author{Bradley Hintze}
 \date{\today}
@@ -11,19 +9,39 @@
 
 \section{Epidermal Growth Factor Receptor (EGFR)}
 \subsection*{Overview:}
-Epidermal Growth Factor Receptor (EGFR) is a cell surface receptor that is activated when it binds its ligand causing homodimerization \cite{Yarden1987}. This dimerization causes activation if the inner-cellular C-terminal kinase activity causing autophosphorylation of C-terminal tyrosines Y992, Y1045, Y1068, Y1148 and Y1173 \cite{Downward1984}. This phosphorylation acts as a siglnal to mainy pathways involved in cell migration, adhesion, and proliferation \cite{Oda2005}.
+Epidermal Growth Factor Receptor (EGFR) is a cell surface receptor that is activated when it binds its ligand causing homodimerization \cite{Yarden1987}. This dimerization causes activation if the inner-cellular C-terminal kinase activity causing autophosphorylation of C-terminal tyrosines Y992, Y1045, Y1068, Y1148 and Y1173 \cite{Downward1984}. This phosphorylation acts as a signal to many pathways involved in cell migration, adhesion, and proliferation \cite{Oda2005}.
 
 \subsection*{Implications in NSCLC:}
-Mutations in EGFR have been linked to squamous-cell carcinoma \cite{Walker2009}. The drug gefitinib has been shown to be a stong inhibitor of L858R mutant of EGFR \cite{Paez2004}. Bradley needs to do more research!
+Mutations in EGFR have been linked to squamous-cell carcinoma \cite{Walker2009}. Some of these mutations have been shown to constitutive activate EGFR \cite{Lynch2004}. Nearly 90\% of lung-cancer--specific EGFR mutations are L858R and deletion 746-750 \cite{Rosell2009}. Other point mutations have also been observed, such as L861Q \cite{Lynch2004} and 719 \cite{Kosaka2004}. The drug gefitinib has shown to have a positive clinical response to those with tumors that contain these mutations, but this a small sub-population of those with NSCLC, only 10 to 19 percent of patients with chemotherapy-refractory advanced NSCLC \cite{Kris2003,Fukuoka2003}. This suggests that gefitinib is promising as a targeted therapy for those having tumors with EGFR mutations described here.
+
+\vspace{5px}
+\noindent
+\textbf{Structural Observations of EGFR Mutations:}
 
 \noindent
+The reason for the L858R mutant causing constitutive activation of EGFR can be explained in structural terms. Leucine 858 is in the activation loop of the kinase domain. Part of this loop is a helix in the inactive conformation and sits in the active site blocking kinase activity. Leucine 858 is in this inactive helix and makes numerous hydrophobic interactions with the active site thus locking the helix in place and blocking kinase activity. The mutation to arginine completely disrupts this hydrophobic interaction since arginine is a bulky, positively charged amino acid. This disruption makes it impossible for the inactive helix to snugly fit into the active site thus adopting the active conformation causing constitutive activation \cite{Zhang2006}.
+
+The reason the deletion 746-750 causes constitutive activation of EGFR may be due to its interaction with the inactivating helix; the interaction may lock the inactivating helix into place thus helping the inactivity. Obviously, if this is the case, deleting this loop would destabilize the inactivating helix  \cite{Zhang2006}.
+
+\subsection*{Facts About Gefitinib}
+\begin{itemize}
+  \item FDA approved in May 2003
+  \item Gefitinib is an ATP competitor. 
+  \item Gefitinib binds 20-fold more tightly to the L858R mutant than to the wild-type enzyme \cite{Yun2007}.
+\end{itemize}
+
+\subsection*{Facts about EGFR mutations}
+\begin{itemize}
+  \item The kinase activity of the EGFR L858R mutant is 50-fold more active than the wild-type kinase, and the G719S mutant is approximately 10-fold more active than wild-type \cite{Yun2007}.
+  \item The T790M mutation increases the affinity for ATP in the L858R context. This causes gefitinib resistance as ATP can actively compete agaist gefitinib \cite{Yun2008}. This may explain the genetic dispoition to lung cancer of those with the germ line T790M EGFR mutation \cite{Bell2005}.
+\end{itemize}
+
 \subsection*{Questions Pending}
 \begin{itemize}
-\item Read this \cite{Rosell2009}.
-\item Are there published guidlines for using gefitinib or erlotinib?
-\item What mutations are (and are not) sensative to gefitinib and erlotinib?
-\item Paez et al. showed that mutations in EGFR to be more common in japanese (asians?) compared to european decendants and women compared to men \cite{Paez2004}. Can we show frequency of mutation vs. race/sex?
-\item Is targeted treatment bing misused, i.e. is gefitinib being used on patients lacking the EGFR  L858R mutant? If so, are survival rates as expected -- lower than the group having the L858R mutant?
+  \item Are there published guidelines for using gefitinib or erlotinib?
+  \item What mutations are (and are not) sensitive to gefitinib and erlotinib?
+  \item Paez et al. showed that mutations in EGFR to be more common in Japanese (Asians?) compared to European descendants and women compared to men \cite{Paez2004}. Can we show frequency of mutation vs. race/sex?
+  \item Is targeted treatment being misused, i.e. is gefitinib being used on patients lacking the EGFR  L858R mutant? If so, are survival rates as expected -- lower than the group having the L858R mutant?
 \end{itemize}
 
 \section{Anaplastic Lymphoma Kinase (ALK)}
@@ -31,4 +49,5 @@ Bradley needs to do research!
 
 \newpage
 \bibliography{EGFR_ALK}
+\bibliographystyle{unsrt}
 \end{document}
